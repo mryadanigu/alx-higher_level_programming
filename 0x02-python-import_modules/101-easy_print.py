@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-import printme
+__import__('printme')
